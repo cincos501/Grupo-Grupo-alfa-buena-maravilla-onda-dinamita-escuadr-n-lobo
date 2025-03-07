@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Backkk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d088970724fc74ed9030c91c736469caca11a8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Backkk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Backkk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

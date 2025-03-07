@@ -1,33 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\",
+  "WorkspaceRootPath": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyect\\backkkkk\\backkk\\backkk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyecto\\grupo-grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\backend\\backkk\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyect\\backkkkk\\backkk\\backkk\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyecto\\grupo-grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\backend\\backkk\\controllers\\mesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\controllers\\mesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyect\\backkkkk\\backkk\\backkk\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyecto\\grupo-grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\backend\\backkk\\controllers\\asignacionturnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\controllers\\asignacionturnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyect\\backkkkk\\backkk\\backkk\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyect\\backkkkk\\backkk\\backkk\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyecto\\grupo-grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\backend\\backkk\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyect\\backkkkk\\backkk\\backkk\\appdbcontext\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyecto\\grupo-grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\backend\\backkk\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyecto\\grupo-grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\backend\\backkk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyecto\\grupo-grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\backend\\backkk\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyecto\\grupo-grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\backend\\backkk\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyecto\\grupo-grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\backend\\backkk\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyecto\\grupo-grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\backend\\backkk\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyecto\\grupo-grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\backend\\backkk\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyecto\\grupo-grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\backend\\backkk\\appdbcontext\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\appdbcontext\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyect\\backkkkk\\backkk\\backkk\\migrations\\20250304232001_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|c:\\users\\victus\\desktop\\proyecto\\grupo-grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\backend\\backkk\\migrations\\20250304232001_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67484DFC-9214-4626-8A02-1118E4A0BA5E}|Backkk\\Backkk.csproj|solutionrelative:backkk\\migrations\\20250304232001_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,36 +71,113 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Evento.cs",
-              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\Models\\Evento.cs",
-              "RelativeDocumentMoniker": "Backkk\\Models\\Evento.cs",
-              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\Models\\Evento.cs",
-              "RelativeToolTip": "Backkk\\Models\\Evento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MesaController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Controllers\\MesaController.cs",
+              "RelativeDocumentMoniker": "Backkk\\Controllers\\MesaController.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Controllers\\MesaController.cs",
+              "RelativeToolTip": "Backkk\\Controllers\\MesaController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:46:52.151Z",
+              "WhenOpened": "2025-03-07T16:05:46.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "Backkk\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "Backkk\\Controllers\\UsuariosController.cs",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Backkk\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Backkk\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:04:41.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsignacionTurnoController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Controllers\\AsignacionTurnoController.cs",
+              "RelativeDocumentMoniker": "Backkk\\Controllers\\AsignacionTurnoController.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Controllers\\AsignacionTurnoController.cs",
+              "RelativeToolTip": "Backkk\\Controllers\\AsignacionTurnoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:53:58.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Backkk\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Models\\Pedido.cs",
+              "RelativeToolTip": "Backkk\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:36:46.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "Backkk\\Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "Backkk\\Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:34:34.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Backkk\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Backkk\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:28:42.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "Backkk\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Models\\Evento.cs",
+              "RelativeToolTip": "Backkk\\Models\\Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:46:52.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Backkk\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Backkk\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T17:21:47.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\appsettings.json",
               "RelativeDocumentMoniker": "Backkk\\appsettings.json",
-              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\appsettings.json",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\appsettings.json",
               "RelativeToolTip": "Backkk\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -85,36 +186,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "EventoController.cs",
-              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\Controllers\\EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Controllers\\EventoController.cs",
               "RelativeDocumentMoniker": "Backkk\\Controllers\\EventoController.cs",
-              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Controllers\\EventoController.cs",
               "RelativeToolTip": "Backkk\\Controllers\\EventoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T01:04:37.317Z"
+              "WhenOpened": "2025-03-05T01:04:37.317Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Backkk\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Backkk\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T23:39:22.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "20250304232001_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\Migrations\\20250304232001_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Migrations\\20250304232001_Initial.cs",
               "RelativeDocumentMoniker": "Backkk\\Migrations\\20250304232001_Initial.cs",
-              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\Migrations\\20250304232001_Initial.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Migrations\\20250304232001_Initial.cs",
               "RelativeToolTip": "Backkk\\Migrations\\20250304232001_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,11 +224,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\AppDbContext\\Context.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\AppDbContext\\Context.cs",
               "RelativeDocumentMoniker": "Backkk\\AppDbContext\\Context.cs",
-              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\AppDbContext\\Context.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\AppDbContext\\Context.cs",
               "RelativeToolTip": "Backkk\\AppDbContext\\Context.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

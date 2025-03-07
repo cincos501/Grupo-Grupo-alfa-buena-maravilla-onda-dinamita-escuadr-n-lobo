@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\Backkk.csproj": {}
+    "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Backkk.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\Backkk.csproj": {
+    "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Backkk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\Backkk.csproj",
+        "projectUniqueName": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Backkk.csproj",
         "projectName": "Backkk",
-        "projectPath": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\Backkk.csproj",
+        "projectPath": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\Backkk.csproj",
         "packagesPath": "C:\\Users\\VICTUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VICTUS\\Desktop\\proyect\\Backkkkk\\Backkk\\Backkk\\obj\\",
+        "outputPath": "C:\\Users\\VICTUS\\Desktop\\Proyecto\\Grupo-Grupo-alfa-buena-maravilla-onda-dinamita-escuadr-n-lobo\\Backend\\Backkk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
